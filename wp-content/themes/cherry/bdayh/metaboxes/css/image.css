@@ -1,0 +1,46 @@
+.rwmb-images { overflow: hidden; }
+.rwmb-images li {
+	font: 13px 'Droid Sans', Helvetica, Arial, Sans-Serif;
+	margin: 0 15px 15px 0;
+	float: left;
+	width: 150px;
+	height: 150px;
+	text-align: center;
+	border: 1px solid #CCC;
+	padding: 4px;
+	background: #FFF;
+	cursor: move;
+	position: relative;
+}
+.rwmb-images img {
+	width: 150px;
+	height: 150px;
+}
+.rwmb-image-bar a { text-decoration: none; }
+.rwmb-image-bar a.rwmb-edit-file {
+	font: 13px 'Droid Sans', Helvetica, Arial, Sans-Serif;
+	color: #fff;
+	text-shadow: rgba(0,0,0,0.45) 0 1px 1px;
+	background: rgba(153,102,204,0.8);
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	padding: 7px 10px;
+	margin-bottom: -1px;
+	margin-right: -1px;
+}
+.rwmb-image-bar a.rwmb-delete-file {
+	color: #fff;
+	text-shadow: rgba(0,0,0,0.45) 0 1px 1px;
+	background: rgba(204,51,0,0.8);
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	padding: 7px 10px;
+	margin-bottom: -1px;
+	margin-left: -1px;
+}
+.rwmb-image-bar a {
+	font: 13px 'Droid Sans', Helvetica, Arial, Sans-Serif;
+	color: #fff;
+}

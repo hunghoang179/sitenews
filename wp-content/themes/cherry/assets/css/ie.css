@@ -1,0 +1,27 @@
+.widget_tabs ol.tabs_nav li a {
+	font-family: 'Droid Sans', Arial, Verdana, sans-serif !important;
+	font-size: 11px !important;
+	font-weight: normal !important;
+	padding: 15px 13px 16px 13px !important;
+}
+.widget_tabs ol.tabs_nav li.active a { padding-top: 13px !important; }
+.sidebar_wrapper .widget h3.widget_title {
+	font-family: 'Droid Sans', Arial, Verdana, sans-serif !important;
+	font-size: 12px !important;
+	font-weight: bold !important;
+}
+.slider .top_slider h1, footer h2.widgettitle, .cat_box ul li h2 {
+	font-family: 'Droid Sans', Arial, Verdana, sans-serif !important;
+	font-size: 14px !important;
+	line-height: 20px !important;
+}
+nav ul.menu > li > a {
+	font-family: 'Droid Sans', Arial, Verdana, sans-serif !important;
+	font-size: 13px !important;
+	line-height: 32px !important;
+}
+.toolbar ul.top_menu > li > a, .news_box_title,.newsticker span.title {
+	font-family: 'Droid Sans', Arial, Verdana, sans-serif !important;
+	font-size: 13px !important;
+}
+

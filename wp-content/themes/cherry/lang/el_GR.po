@@ -1,0 +1,2840 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cherry 1.8.0\n"
+"POT-Creation-Date: 2014-05-07 04:42+0200\n"
+"PO-Revision-Date: 2014-05-07 04:42+0200\n"
+"Last-Translator: bdayh <bdayh.themes@gmail.com>\n"
+"Language-Team: Bdayh Team <im@bdayh.com>\n"
+"Language: en_EG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:13
+msgid "<span>404</span> - Page Not Found !"
+msgstr "<span>404</span> - Η σελίδα δεν βρέθηκε!"
+
+#: ../404.php:16
+msgid "The page you are looking for is not here. Perhaps search helps you."
+msgstr ""
+"Η σελίδα που ψάχνετε δεν είναι εδώ. Ίσως η αναζήτηση να σας βοηθήσει να την "
+"βρείτε."
+
+#: ../404.php:28 ../templates/sitemap.php:18
+msgid "Pages"
+msgstr "Σελίδες"
+
+#: ../404.php:38 ../templates/sitemap.php:27
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+#: ../404.php:48 ../single.php:202 ../templates/sitemap.php:36
+#: ../widgets/tabs.php:36
+msgid "Tags"
+msgstr "Ετικέτες"
+
+#: ../404.php:64 ../templates/sitemap.php:53
+msgid "Authors"
+msgstr "Συγγραφείς"
+
+#: ../archive.php:15 ../attachment.php:14
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Αρχεία κατηγορίας: %s"
+
+#: ../archive.php:18 ../archive.php:19 ../attachment.php:17
+#: ../attachment.php:18
+msgid "Feed Subscription"
+msgstr ""
+
+#: ../author.php:16
+msgid "Author Archives : "
+msgstr "Αρχεία συγγραφέων :"
+
+#: ../author.php:33
+msgid "'s site'"
+msgstr "'s σελίδα'"
+
+#: ../author.php:37 ../functions.php:1626 ../functions.php:1704
+#: ../templates/authors-blocks.php:62 ../templates/authors.php:41
+msgid "  on Facebook"
+msgstr "στο Facebook"
+
+#: ../author.php:41 ../functions.php:1629 ../functions.php:1707
+#: ../templates/authors-blocks.php:65 ../templates/authors.php:44
+msgid "  on Twitter"
+msgstr "στο Twitter"
+
+#: ../author.php:45 ../functions.php:1632 ../functions.php:1710
+#: ../templates/authors-blocks.php:68 ../templates/authors.php:47
+msgid "  on Google+"
+msgstr "στο Google+"
+
+#: ../author.php:49 ../functions.php:1635 ../functions.php:1713
+#: ../templates/authors-blocks.php:71 ../templates/authors.php:50
+msgid "  on Linkedin"
+msgstr "στο Linkedin"
+
+#: ../author.php:53 ../functions.php:1644 ../functions.php:1722
+#: ../templates/authors-blocks.php:80 ../templates/authors.php:59
+msgid "  on Pinterest"
+msgstr "στο Pinterest"
+
+#: ../author.php:57 ../functions.php:1641 ../functions.php:1719
+#: ../templates/authors-blocks.php:77 ../templates/authors.php:56
+msgid "  on YouTube"
+msgstr "στο YouTube"
+
+#: ../author.php:61 ../functions.php:1638 ../functions.php:1716
+#: ../templates/authors-blocks.php:74 ../templates/authors.php:53
+msgid "  on Flickr"
+msgstr "στο Flickr"
+
+#: ../breadcrumbs.php:10
+msgid "You are here:"
+msgstr "Είσαι εδώ:"
+
+#: ../breadcrumbs.php:14 ../functions/breadcrumbs.php:5
+msgid "Home"
+msgstr "Αρχική Σελίδα"
+
+#: ../breadcrumbs.php:77 ../search.php:7 ../search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Αποτέλεματα αναζήτησης για: %s"
+
+#: ../breadcrumbs.php:82
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Αρχεία ετικετών: %s"
+
+#: ../breadcrumbs.php:89
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Αρχεία συγγραφέων: %s"
+
+#: ../breadcrumbs.php:94
+msgid "Not Found"
+msgstr "Δεν βρέθηκε"
+
+#: ../breadcrumbs.php:100
+msgid "page "
+msgstr "σελίδα"
+
+#: ../comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Το άρθρο αυτό προστατεύται με κωδικό. Πληκτρολογήστε τον κωδικό για να δείτε "
+"τα σχόλια."
+
+#: ../comments.php:31 ../widgets/comments.php:32 ../widgets/tabs.php:31
+msgid "Comments"
+msgstr "Σχόλια"
+
+#: ../comments.php:39
+msgid "Older Comments"
+msgstr "Παλαιότερα σχόλια"
+
+#: ../comments.php:42
+msgid "Newer Comments"
+msgstr "Νεότερα σχόλια"
+
+#: ../comments.php:57
+msgid "Leave a Comment"
+msgstr "Αφήστε ένα σχόλιο"
+
+#: ../comments.php:57
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr "Αφήστε ένα σχόλιο στο %s"
+
+#: ../comments.php:61
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr "Πρέπει να %1$sσυνδεθείτε%2$s γα να σχολιάσετε."
+
+#: ../comments.php:70
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr "Συνδεθείτε ως %1$s. %2$sΑποσυνδεθείτε &raquo;%3$s"
+
+#: ../comments.php:70
+msgid "Log out of this account"
+msgstr "Αποσυνδεθείτε από αυτόν τον λογαριασμό"
+
+#: ../comments.php:75
+msgid "Name*"
+msgstr "Όνομα*"
+
+#: ../comments.php:81
+msgid "Email*"
+msgstr "Email*"
+
+#: ../comments.php:87
+msgid "Website"
+msgstr "Ιστοσελίδα"
+
+#: ../comments.php:96
+msgid "Submit Comment"
+msgstr "Καταχωρήστε σχόλιο"
+
+#: ../content-aside.php:43 ../content-audio-small.php:42
+#: ../content-audio.php:42 ../content-image.php:42 ../content.php:46
+msgid "Read more..."
+msgstr "Περισσότερα εδώ..."
+
+#: ../functions.php:132
+#, php-format
+msgid "Page %s"
+msgstr "Σελίδα %s"
+
+#: ../functions.php:325
+msgid "Go to..."
+msgstr ""
+
+#: ../functions.php:862
+msgid "Prev"
+msgstr "Προηγούμενη"
+
+#: ../functions.php:863
+msgid "Next"
+msgstr "Επόμενη"
+
+#: ../functions.php:1018
+msgid "<span> To view this protected post, enter the password below : </span>"
+msgstr ""
+"<span> Για να δείτε την προστατευμένη ανάρτηση, πληκτρολογήστε το κωδικό "
+"παρακάτω : </span>"
+
+#: ../functions.php:1019
+msgid "Password:"
+msgstr "Κωδικός:"
+
+#: ../functions.php:1040
+msgid "No items."
+msgstr ""
+
+#: ../functions.php:1045
+msgid "Posted "
+msgstr "Αναρτημένο από :"
+
+#: ../functions.php:1112
+msgid "Your comment is awaiting moderation."
+msgstr "Το σχόλιο σας βρίσκεται σε αναμονή για έγκριση."
+
+#: ../functions.php:1116
+#, php-format
+msgid "%s "
+msgstr "%s"
+
+#: ../functions.php:1120
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s στο %2$s"
+
+#: ../functions.php:1122
+msgid "(Edit)"
+msgstr "(Επεξεργασία)"
+
+#: ../functions.php:1607
+msgid "Welcome"
+msgstr "Καλωσήρθατε"
+
+#: ../functions.php:1610
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: ../functions.php:1613
+msgid "Your Profile"
+msgstr "Το προφίλ σου"
+
+#: ../functions.php:1616
+msgid "Logout"
+msgstr "Αποσύνδεση"
+
+#: ../functions.php:1623 ../functions.php:1701
+#: ../templates/authors-blocks.php:59 ../templates/authors.php:38
+#, fuzzy
+msgid "'s site"
+msgstr "'s σελίδα'"
+
+#: ../functions.php:1653
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+#: ../functions.php:1656
+msgid "Password"
+msgstr "Κωδικός"
+
+#: ../functions.php:1661
+msgid "Remember Me"
+msgstr "Να με θυμάσαι"
+
+#: ../functions.php:1665 ../functions.php:1666 ../widgets/login.php:30
+msgid "Login"
+msgstr "Είσοδος"
+
+#: ../functions.php:1673
+msgid "Forgot your password?"
+msgstr "Ξεχάσατε τον κωδικό σας;"
+
+#: ../functions.php:1737
+msgid "Social Networking"
+msgstr "Κοινωνικό Δίκτυο"
+
+#: ../functions.php:1830
+msgid "Top Nav"
+msgstr "Top Nav"
+
+#: ../functions.php:1836
+msgid "Nav"
+msgstr "Nav"
+
+#: ../functions.php:1842
+msgid "You can use WP menu builder to build menus"
+msgstr ""
+
+#: ../header.php:49
+msgid "Search..."
+msgstr "Αναζήτηση..."
+
+#: ../header.php:50 ../searchform.php:3 ../admin/setting.php:296
+#: ../admin/setting.php:297 ../widgets/search.php:22 ../widgets/search.php:30
+#: ../widgets/search.php:42
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: ../loop.php:71 ../loop.php:138 ../templates/box-tabs.php:106
+#: ../templates/box-tabs.php:171 ../templates/box-tabs.php:236
+#: ../templates/box-tabs.php:301 ../templates/box-tabs.php:366
+#: ../templates/box-tabs.php:431 ../templates/box-tabs.php:496
+#: ../templates/slider.php:50
+msgid "Read more"
+msgstr "Περισσότερα εδώ..."
+
+#: ../page-full.php:21
+msgid "Pages:"
+msgstr "Σελίδες"
+
+#: ../page.php:26 ../single.php:126 ../templates/blog-loop.php:33
+msgid "Posted by :"
+msgstr "Αναρτημένο από :"
+
+#: ../page.php:33 ../single.php:130 ../templates/blog-loop.php:38
+msgid "Posted date :"
+msgstr "Ημερομηνία ανάρτησης :"
+
+#: ../page.php:39
+msgid "Add"
+msgstr "Προσθήκη"
+
+#: ../page.php:39 ../single.php:138 ../templates/blog-loop.php:40
+msgid "1 Comment"
+msgstr "1 σχόλιο"
+
+#: ../page.php:39 ../single.php:138 ../templates/blog-loop.php:40
+msgid "% Comments"
+msgstr "% σχόλια"
+
+#: ../search.php:9
+msgid "Nothing Found"
+msgstr "Δεν βρέθηκε τίποτα"
+
+#: ../search.php:21
+msgid "Nothing"
+msgstr "Τίποτα"
+
+#: ../search.php:23
+msgid "Found"
+msgstr "Βρέθηκε"
+
+#: ../search.php:27
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Συγγνώμη, αλλά τίποτα δεν ταιριάζει με τα κριτήρια αναζήτησης. Παρακαλώ "
+"προσπαθήστε με διαφορετικές λέξεις-κλειδιά."
+
+#: ../searchform.php:2
+msgid "Search here ..."
+msgstr "Αναζήτηση εδώ ..."
+
+#: ../sidebar.php:4
+msgid "There Is No Sidebar Widgets Yet"
+msgstr "There Is No Sidebar Widgets Yet"
+
+#: ../single.php:134
+msgid "In "
+msgstr "Κατηγορία:"
+
+#: ../single.php:138 ../templates/blog-loop.php:40
+msgid "0"
+msgstr "0"
+
+#: ../single.php:151 ../single.php:152
+msgid "above_ads_img_altname"
+msgstr "above_ads_img_altname"
+
+#: ../single.php:171
+#, fuzzy
+msgid "next page"
+msgstr "Front page"
+
+#: ../single.php:172
+#, fuzzy
+msgid "previous page"
+msgstr "Front page"
+
+#: ../single.php:191 ../single.php:192
+msgid "below_ads_img_altname"
+msgstr "below_ads_img_altname"
+
+#: ../single.php:234
+msgid "About"
+msgstr "Σχετικά"
+
+#: ../admin/layout_functions.php:23 ../admin/layout_functions.php:56
+#: ../admin/options.php:610
+msgid "Remove"
+msgstr "Remove"
+
+#: ../admin/options.php:369
+msgid "Home Page"
+msgstr "Home Page"
+
+#: ../admin/options.php:373
+msgid "Front page"
+msgstr "Front page"
+
+#: ../admin/options.php:375
+msgid "Front page layout choose"
+msgstr "Front page layout choose"
+
+#: ../admin/options.php:377
+#, fuzzy
+msgid " Blog"
+msgstr "Blog"
+
+#: ../admin/options.php:378
+#, fuzzy
+msgid " News Boxes"
+msgstr "News Boxes"
+
+#: ../admin/options.php:387
+msgid "Home Builder"
+msgstr "Home Builder"
+
+#: ../admin/options.php:389
+msgid "Add a News Box"
+msgstr "Add a News Box"
+
+#: ../admin/options.php:390
+msgid "Add a Recent Posts"
+msgstr "Add a Recent Posts"
+
+#: ../admin/options.php:391
+msgid "Add a Scrolling Box"
+msgstr "Add a Scrolling Box"
+
+#: ../admin/options.php:392 ../admin/options.php:584
+msgid "Ads"
+msgstr "Ads"
+
+#: ../admin/options.php:440 ../admin/options.php:510 ../admin/options.php:547
+#: ../admin/options.php:584
+msgid "MoveBox"
+msgstr "MoveBox"
+
+#: ../admin/options.php:440
+msgid "News Box"
+msgstr "News Box"
+
+#: ../admin/options.php:440 ../admin/options.php:510 ../admin/options.php:547
+#: ../admin/options.php:584
+msgid "Settings"
+msgstr "Settings"
+
+#: ../admin/options.php:440 ../admin/options.php:510 ../admin/options.php:547
+#: ../admin/options.php:584
+msgid "Remove Box"
+msgstr "Remove Box"
+
+#: ../admin/options.php:446 ../admin/options.php:514 ../admin/options.php:551
+msgid "Category"
+msgstr "Category"
+
+#: ../admin/options.php:453 ../admin/options.php:526 ../admin/options.php:563
+msgid "Number of posts"
+msgstr "Number of posts"
+
+#: ../admin/options.php:455 ../admin/options.php:528 ../admin/options.php:565
+msgid ""
+"How many posts you want to be displayed from the selected categories. Type "
+"-1 if you want to use all the existing posts from the categories you "
+"selected."
+msgstr ""
+"How many posts you want to be displayed from the selected categories. Type "
+"-1 if you want to use all the existing posts from the categories you "
+"selected."
+
+#: ../admin/options.php:459
+msgid "Box Layout"
+msgstr "Box Layout"
+
+#: ../admin/options.php:510
+msgid "Scrolling Box"
+msgstr "Scrolling Box"
+
+#: ../admin/options.php:521 ../admin/options.php:558
+#: ../widgets/comments.php:36 ../widgets/login.php:34
+#: ../widgets/new-in-pic.php:43 ../widgets/newsletter.php:49
+#: ../widgets/search.php:46
+msgid "Title"
+msgstr "Title"
+
+#: ../admin/options.php:547 ../widgets/recent-posts.php:32
+msgid "Recent Posts"
+msgstr "Recent Posts"
+
+#: ../admin/options.php:588
+msgid "Type"
+msgstr "Type"
+
+#: ../admin/options.php:592 ../admin/options.php:600
+msgid "Ads Code"
+msgstr "Ads Code"
+
+#: ../admin/options.php:595 ../admin/options.php:605
+msgid "Image Upload"
+msgstr "Image Upload"
+
+#: ../admin/options.php:614
+msgid "Ads Link"
+msgstr "Ads Link"
+
+#: ../admin/options.php:617
+msgid "Alternate Name"
+msgstr "Alternate Name"
+
+#: ../admin/options.php:631
+msgid "Typography"
+msgstr ""
+
+#: ../admin/options.php:823
+msgid "Styling Settings"
+msgstr "Styling Settings"
+
+#: ../admin/options.php:842 ../admin/options.php:843 ../admin/options.php:844
+msgid "Custom Background"
+msgstr "Custom Background"
+
+#: ../admin/options.php:862
+msgid "Choose Pattern Background"
+msgstr "Choose Pattern Background"
+
+#: ../admin/options.php:1129
+msgid "Footer Settings"
+msgstr "Footer Settings"
+
+#: ../admin/options.php:1135
+msgid "Advanced Settings"
+msgstr "Advanced Settings"
+
+#: ../admin/options.php:1143
+msgid "Skins Colors"
+msgstr "Skins Colors"
+
+#: ../admin/options.php:1146
+msgid "Theme Layout"
+msgstr "Theme Layout"
+
+#: ../admin/options.php:1177
+msgid "Choose Skin Colors"
+msgstr "Choose Skin Colors"
+
+#: ../admin/setting.php:6 ../admin/setting.php:7
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../admin/setting.php:17
+msgid "newsticker"
+msgstr "newsticker"
+
+#: ../admin/setting.php:18
+msgid "Show newsticker"
+msgstr "Show newsticker"
+
+#: ../admin/setting.php:24
+msgid "newsticker title"
+msgstr "newsticker"
+
+#: ../admin/setting.php:25
+msgid "Show newsticker title"
+msgstr "Show newsticker"
+
+#: ../admin/setting.php:31 ../admin/setting.php:32
+msgid "newsticker display"
+msgstr "newsticker display"
+
+#: ../admin/setting.php:67 ../admin/setting.php:68
+msgid "newsticker Category"
+msgstr "newsticker Category"
+
+#: ../admin/setting.php:79 ../admin/setting.php:80
+msgid "newsticker Tag"
+msgstr "newsticker Tag"
+
+#: ../admin/setting.php:87 ../admin/setting.php:88
+msgid "Using Timthumb"
+msgstr "Using Timthumb"
+
+#: ../admin/setting.php:89
+msgid ""
+"if this on this mean you use timthumb script to resize all posts feature "
+"images else if it false this mean you use. "
+msgstr ""
+"if this on this mean you use timthumb script to resize all posts feature "
+"images else if it false this mean you use. "
+
+#: ../admin/setting.php:99
+msgid "Alert Bar"
+msgstr "Alert Bar"
+
+#: ../admin/setting.php:100
+msgid "Show Alert Bar"
+msgstr "Show Alert Bar"
+
+#: ../admin/setting.php:101
+msgid "Turn this on to show alert bar on the top of your web site."
+msgstr "Turn this on to show alert bar on the top of your web site."
+
+#: ../admin/setting.php:108 ../admin/setting.php:109
+msgid "Alert Bar Content"
+msgstr "Alert Bar Content"
+
+#: ../admin/setting.php:110
+msgid "You can Add HTMl here."
+msgstr "You can Add HTMl here."
+
+#: ../admin/setting.php:119 ../admin/setting.php:120
+msgid "Footer Code"
+msgstr "Footer Code"
+
+#: ../admin/setting.php:121
+msgid ""
+"The following code will add to the footer before the closing </body> tag. "
+"Useful if you need to Javascript or tracking code."
+msgstr ""
+"The following code will add to the footer before the closing </body> tag. "
+"Useful if you need to Javascript or tracking code."
+
+#: ../admin/setting.php:129 ../admin/setting.php:130
+msgid "Copyrights"
+msgstr "Copyrights"
+
+#: ../admin/setting.php:131
+msgid "Footer Copyrights Text"
+msgstr "Footer Copyrights Text"
+
+#: ../admin/setting.php:141 ../admin/setting.php:143 ../admin/setting.php:149
+#: ../admin/setting.php:157
+msgid "Post Meta Settings"
+msgstr "Quote Settings"
+
+#: ../admin/setting.php:142
+msgid "Post Meta :"
+msgstr "Ημερομηνία ανάρτησης :"
+
+#: ../admin/setting.php:150
+msgid "Author Meta :"
+msgstr "Αρχεία συγγραφέων :"
+
+#: ../admin/setting.php:151
+msgid "Author Meta"
+msgstr "Συγγραφείς"
+
+#: ../admin/setting.php:158
+msgid "Date Meta :"
+msgstr ""
+
+#: ../admin/setting.php:159
+msgid "Date Meta"
+msgstr ""
+
+#: ../admin/setting.php:166 ../admin/setting.php:168 ../admin/setting.php:174
+#: ../admin/setting.php:182 ../admin/setting.php:190 ../admin/setting.php:198
+#: ../admin/setting.php:206 ../admin/setting.php:214 ../admin/setting.php:652
+#: ../admin/setting.php:660 ../admin/setting.php:668 ../admin/setting.php:676
+#: ../admin/setting.php:684 ../admin/setting.php:692
+msgid "Share Post Buttons"
+msgstr "Show Socail Buttons"
+
+#: ../admin/setting.php:167
+msgid "Share Post Buttons :"
+msgstr "Show Socail Buttons"
+
+#: ../admin/setting.php:175 ../admin/setting.php:653
+msgid "Tweet Button :"
+msgstr ""
+
+#: ../admin/setting.php:176 ../admin/setting.php:654
+msgid "Tweet Button"
+msgstr ""
+
+#: ../admin/setting.php:183 ../admin/setting.php:661
+msgid "Facebook Like Button :"
+msgstr ""
+
+#: ../admin/setting.php:184 ../admin/setting.php:662
+msgid "Facebook Like Button"
+msgstr ""
+
+#: ../admin/setting.php:191 ../admin/setting.php:669
+msgid "Google+ Button :"
+msgstr "Google+ url"
+
+#: ../admin/setting.php:192 ../admin/setting.php:670
+msgid "Google+ Button"
+msgstr "Google+ url"
+
+#: ../admin/setting.php:199 ../admin/setting.php:677
+msgid "StumbleUpon Button :"
+msgstr "Stumbleupon"
+
+#: ../admin/setting.php:200 ../admin/setting.php:678
+msgid "StumbleUpon Button"
+msgstr "Stumbleupon"
+
+#: ../admin/setting.php:207 ../admin/setting.php:685
+msgid "Linkedin Button :"
+msgstr "Linkedin"
+
+#: ../admin/setting.php:208 ../admin/setting.php:686
+msgid "Linkedin Button"
+msgstr "Linkedin"
+
+#: ../admin/setting.php:215 ../admin/setting.php:693
+msgid "Pinterest Button :"
+msgstr "Pinterest"
+
+#: ../admin/setting.php:216 ../admin/setting.php:694
+msgid "Pinterest Button"
+msgstr "Pinterest"
+
+#: ../admin/setting.php:225 ../admin/setting.php:226
+msgid "Disable Responsive"
+msgstr ""
+
+#: ../admin/setting.php:227
+msgid "Disable Responsive. "
+msgstr ""
+
+#: ../admin/setting.php:233 ../admin/setting.php:234
+msgid "Stick The Navigation menu"
+msgstr ""
+
+#: ../admin/setting.php:235
+msgid "Stick The Navigation menu. "
+msgstr ""
+
+#: ../admin/setting.php:242
+msgid "Hide Top menu"
+msgstr ""
+
+#: ../admin/setting.php:243
+msgid "Hide Top menu. "
+msgstr ""
+
+#: ../admin/setting.php:250 ../admin/setting.php:251
+msgid "Top Menu Right"
+msgstr ""
+
+#: ../admin/setting.php:286 ../admin/setting.php:287
+msgid "Social"
+msgstr "Socials Icon"
+
+#: ../admin/setting.php:304 ../admin/setting.php:305
+msgid "Today Date"
+msgstr ""
+
+#: ../admin/setting.php:306
+msgid "Today Date. "
+msgstr ""
+
+#: ../admin/setting.php:312 ../admin/setting.php:313
+msgid "Today Date Format"
+msgstr ""
+
+#: ../admin/setting.php:314
+msgid "Today Date Format. "
+msgstr ""
+
+#: ../admin/setting.php:322 ../admin/setting.php:355
+msgid "general settings"
+msgstr "general settings"
+
+#: ../admin/setting.php:323
+msgid "The Logo"
+msgstr "The Logo"
+
+#: ../admin/setting.php:324
+msgid "Upload Custom Logo"
+msgstr "Upload Custom Logo"
+
+#: ../admin/setting.php:331 ../admin/setting.php:332
+msgid "margin top logo"
+msgstr "margin top logo"
+
+#: ../admin/setting.php:333
+msgid "margin top logo default (45px)"
+msgstr "margin top logo default (45px)"
+
+#: ../admin/setting.php:343 ../admin/setting.php:344
+msgid "margin top header ads"
+msgstr "margin top header ads"
+
+#: ../admin/setting.php:345
+msgid "margin top header ads default (50px)ads 468x60 - (35px)ads 728x90 "
+msgstr "margin top header ads default (50px)ads 468x60 - (35px)ads 728x90 "
+
+#: ../admin/setting.php:356
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../admin/setting.php:357
+msgid "Upload Custom Favicon"
+msgstr "Upload Custom Favicon"
+
+#: ../admin/setting.php:364 ../admin/setting.php:365
+msgid "Custom Gravatar"
+msgstr "Custom Sidebars"
+
+#: ../admin/setting.php:366
+msgid "Upload Custom Gravatar"
+msgstr "Upload Custom Favicon"
+
+#: ../admin/setting.php:373 ../admin/setting.php:374
+msgid "Custom Dashboard Logo"
+msgstr "Dashboard"
+
+#: ../admin/setting.php:375
+msgid "Upload Custom Dashboard Logo"
+msgstr "Upload Custom Logo"
+
+#: ../admin/setting.php:386 ../admin/setting.php:387
+msgid "Header Code"
+msgstr "Header Code"
+
+#: ../admin/setting.php:388
+msgid ""
+"The following code will add to the <head> tag. Useful if you need to add "
+"additional scripts such as CSS or JS."
+msgstr ""
+"The following code will add to the <head> tag. Useful if you need to add "
+"additional scripts such as CSS or JS."
+
+#: ../admin/setting.php:396 ../admin/setting.php:397
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: ../admin/setting.php:398
+msgid ""
+"google analytics or any Script, it will be add before closing of body tag ."
+msgstr ""
+"google analytics or any Script, it will be add before closing of body tag ."
+
+#: ../admin/setting.php:408 ../admin/setting.php:409 ../admin/setting.php:410
+msgid "Category Description"
+msgstr "Category Posts"
+
+#: ../admin/setting.php:416 ../admin/setting.php:417 ../admin/setting.php:418
+msgid "Category RSS"
+msgstr "Category"
+
+#: ../admin/setting.php:425 ../admin/setting.php:426 ../admin/setting.php:427
+#: ../admin/setting.php:543 ../admin/setting.php:544 ../admin/setting.php:545
+msgid "Show crumbs"
+msgstr "Show crumbs"
+
+#: ../admin/setting.php:436 ../admin/setting.php:437
+msgid "archives display"
+msgstr "feature display"
+
+#: ../admin/setting.php:472 ../admin/setting.php:473
+msgid "archives fullthumb"
+msgstr ""
+
+#: ../admin/setting.php:482 ../admin/setting.php:483
+msgid "archives content"
+msgstr "Before post content"
+
+#: ../admin/setting.php:502 ../admin/setting.php:503 ../admin/setting.php:504
+msgid "Show Meta Pages"
+msgstr "Show Meta Pages"
+
+#: ../admin/setting.php:511 ../admin/setting.php:512
+msgid "Show pages Socail Buttons "
+msgstr "Show Socail Buttons"
+
+#: ../admin/setting.php:513
+msgid "Show pages  Socail Buttons "
+msgstr "Show Socail Buttons"
+
+#: ../admin/setting.php:520 ../admin/setting.php:521 ../admin/setting.php:522
+msgid "Show Author"
+msgstr "Show Author"
+
+#: ../admin/setting.php:530 ../admin/setting.php:531 ../admin/setting.php:532
+msgid "Show pagination"
+msgstr "Show pagination"
+
+#: ../admin/setting.php:552
+msgid "Show Meta Entry"
+msgstr "Show Meta Entry"
+
+#: ../admin/setting.php:553
+msgid "Show Meta Entry :"
+msgstr "Show Meta Entry :"
+
+#: ../admin/setting.php:554
+msgid "Show Meta Entry ."
+msgstr "Show Meta Entry ."
+
+#: ../admin/setting.php:561
+msgid "Show  Pagination"
+msgstr "Show pagination"
+
+#: ../admin/setting.php:562
+msgid "Show  Pagination :"
+msgstr "Show Meta Pagination :"
+
+#: ../admin/setting.php:563
+msgid "Show  Pagination ."
+msgstr "Show Meta Pagination ."
+
+#: ../admin/setting.php:570
+msgid "Stick The  Pagination"
+msgstr "Show Meta Pagination"
+
+#: ../admin/setting.php:571
+msgid "Stick The  Pagination :"
+msgstr "Show Meta Pagination :"
+
+#: ../admin/setting.php:572
+msgid "Stick The  Pagination Right / Left Article ."
+msgstr ""
+
+#: ../admin/setting.php:581 ../admin/setting.php:582
+msgid "Show Author Avatar "
+msgstr "Show Author Avatar "
+
+#: ../admin/setting.php:583
+msgid "Show Author Avatar."
+msgstr "Show Author Avatar."
+
+#: ../admin/setting.php:590 ../admin/setting.php:591
+msgid "Show Author "
+msgstr "Show Author "
+
+#: ../admin/setting.php:592
+msgid "Show Author."
+msgstr "Show Author."
+
+#: ../admin/setting.php:599 ../admin/setting.php:600
+msgid "Show date "
+msgstr "Show date "
+
+#: ../admin/setting.php:601
+msgid "Show date."
+msgstr "Show date."
+
+#: ../admin/setting.php:608 ../admin/setting.php:609
+msgid "Show category "
+msgstr "Show category "
+
+#: ../admin/setting.php:610
+msgid "Show category."
+msgstr "Show category."
+
+#: ../admin/setting.php:616 ../admin/setting.php:617
+msgid "Show comments "
+msgstr "Show comments "
+
+#: ../admin/setting.php:618
+msgid "Show comments."
+msgstr "Show comments."
+
+#: ../admin/setting.php:625 ../admin/setting.php:626
+msgid "Show tags "
+msgstr "Show tags "
+
+#: ../admin/setting.php:627
+msgid "Show tags."
+msgstr "Show tags."
+
+#: ../admin/setting.php:636 ../admin/setting.php:637 ../admin/setting.php:638
+msgid "Show Author Box"
+msgstr "Show Author Box"
+
+#: ../admin/setting.php:644 ../admin/setting.php:645 ../admin/setting.php:646
+msgid "Show Socail Buttons"
+msgstr "Show Socail Buttons"
+
+#: ../admin/setting.php:701 ../admin/setting.php:702 ../admin/setting.php:703
+msgid "Show related"
+msgstr "Show related"
+
+#: ../admin/setting.php:709 ../admin/setting.php:710 ../admin/setting.php:711
+msgid "Number Of related Posts"
+msgstr "Number Of related Posts"
+
+#: ../admin/setting.php:721 ../admin/setting.php:722 ../admin/setting.php:723
+msgid "Related posts By"
+msgstr "Related posts By"
+
+#: ../admin/setting.php:750 ../admin/setting.php:751 ../admin/setting.php:752
+msgid "Related posts Style"
+msgstr "Related posts Style"
+
+#: ../admin/setting.php:777 ../admin/setting.php:778
+msgid "Adding Comment Validation"
+msgstr ""
+
+#: ../admin/setting.php:786 ../admin/setting.php:787 ../admin/setting.php:788
+msgid "Show article above ads"
+msgstr "Show article above ads"
+
+#: ../admin/setting.php:795 ../admin/setting.php:796
+msgid "above ads code"
+msgstr "above ads code"
+
+#: ../admin/setting.php:797
+msgid "above ads code ."
+msgstr "above ads code ."
+
+#: ../admin/setting.php:804 ../admin/setting.php:805
+msgid "above ads img"
+msgstr "above ads img"
+
+#: ../admin/setting.php:806
+msgid "above ads img upload"
+msgstr "above ads img upload"
+
+#: ../admin/setting.php:812 ../admin/setting.php:813 ../admin/setting.php:814
+msgid "above ads url"
+msgstr "above ads url"
+
+#: ../admin/setting.php:820 ../admin/setting.php:821 ../admin/setting.php:822
+msgid "above ads Alternate Name"
+msgstr "above ads Alternate Name"
+
+#: ../admin/setting.php:831 ../admin/setting.php:832 ../admin/setting.php:833
+msgid "Show article below ads"
+msgstr "Show article below ads"
+
+#: ../admin/setting.php:840 ../admin/setting.php:841
+msgid "below ads code"
+msgstr "below ads code"
+
+#: ../admin/setting.php:842
+msgid "below ads code ."
+msgstr "below ads code ."
+
+#: ../admin/setting.php:849 ../admin/setting.php:850
+msgid "below ads img"
+msgstr "below ads img"
+
+#: ../admin/setting.php:851
+msgid "below ads img upload"
+msgstr "below ads img upload"
+
+#: ../admin/setting.php:857 ../admin/setting.php:858 ../admin/setting.php:859
+msgid "below ads url"
+msgstr "below ads url"
+
+#: ../admin/setting.php:865 ../admin/setting.php:866 ../admin/setting.php:867
+msgid "below ads Alternate Name"
+msgstr "below ads Alternate Name"
+
+#: ../admin/setting.php:876
+msgid "social networking"
+msgstr "social networking"
+
+#: ../admin/setting.php:877
+msgid "Show Social Networking"
+msgstr "Show Social Networking"
+
+#: ../admin/setting.php:878
+msgid "Show Social icons in Footer."
+msgstr "Show Social icons in Footer."
+
+#: ../admin/setting.php:884 ../admin/setting.php:885 ../admin/setting.php:886
+msgid "Twitter User name"
+msgstr "Twitter User name"
+
+#: ../admin/setting.php:892 ../admin/setting.php:893 ../admin/setting.php:894
+#: ../admin/setting.php:1069 ../admin/setting.php:1070
+#: ../admin/setting.php:1071
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../admin/setting.php:900 ../admin/setting.php:901 ../admin/setting.php:902
+#: ../admin/setting.php:1078 ../admin/setting.php:1079
+#: ../admin/setting.php:1080 ../widgets/fb.php:43
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../admin/setting.php:909 ../admin/setting.php:910 ../admin/setting.php:911
+msgid "Google+"
+msgstr "Google+"
+
+#: ../admin/setting.php:918 ../admin/setting.php:919 ../admin/setting.php:920
+msgid "linkedin"
+msgstr "Linkedin"
+
+#: ../admin/setting.php:927 ../admin/setting.php:928 ../admin/setting.php:929
+msgid "digg"
+msgstr ""
+
+#: ../admin/setting.php:936 ../admin/setting.php:937 ../admin/setting.php:938
+#: ../widgets/social-counter.php:62
+msgid "Rss"
+msgstr "Rss"
+
+#: ../admin/setting.php:944 ../admin/setting.php:945 ../admin/setting.php:946
+#: ../bdayh/metaboxes/theme_metaboxes.php:259
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ../admin/setting.php:952 ../admin/setting.php:953 ../admin/setting.php:954
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../admin/setting.php:960 ../admin/setting.php:961 ../admin/setting.php:962
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../admin/setting.php:968 ../admin/setting.php:969 ../admin/setting.php:970
+msgid "behance"
+msgstr "behance"
+
+#: ../admin/setting.php:977 ../admin/setting.php:978 ../admin/setting.php:979
+msgid "reddit"
+msgstr "reddit"
+
+#: ../admin/setting.php:986 ../admin/setting.php:987 ../admin/setting.php:988
+msgid "myspace"
+msgstr "myspace"
+
+#: ../admin/setting.php:995 ../admin/setting.php:996
+msgid "skype name"
+msgstr "skype"
+
+#: ../admin/setting.php:997
+msgid "skype name ."
+msgstr "Όνομα χρήστη"
+
+#: ../admin/setting.php:1004 ../admin/setting.php:1005
+#: ../admin/setting.php:1006
+msgid "envato"
+msgstr "envato"
+
+#: ../admin/setting.php:1013 ../admin/setting.php:1014
+#: ../admin/setting.php:1015
+msgid "deviantart"
+msgstr "deviantart"
+
+#: ../admin/setting.php:1022 ../admin/setting.php:1023
+#: ../admin/setting.php:1024
+msgid "blogger"
+msgstr "blogger"
+
+#: ../admin/setting.php:1031 ../admin/setting.php:1032
+#: ../admin/setting.php:1033
+msgid "tumblr"
+msgstr "tumblr"
+
+#: ../admin/setting.php:1040 ../admin/setting.php:1041
+#: ../admin/setting.php:1042
+msgid "vimeo"
+msgstr "vimeo"
+
+#: ../admin/setting.php:1049 ../admin/setting.php:1050
+#: ../admin/setting.php:1051
+msgid "instagram"
+msgstr "vimeo"
+
+#: ../admin/setting.php:1058 ../admin/setting.php:1059
+#: ../admin/setting.php:1060
+msgid "foursquare"
+msgstr "foursquare"
+
+#: ../admin/setting.php:1087 ../admin/setting.php:1088
+#: ../admin/setting.php:1089
+msgid "Google +"
+msgstr "Google +"
+
+#: ../admin/setting.php:1096 ../admin/setting.php:1097
+#: ../admin/setting.php:1098
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: ../admin/setting.php:1105 ../admin/setting.php:1106
+#: ../admin/setting.php:1107
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: ../admin/setting.php:1117
+msgid "header ads"
+msgstr "header ads"
+
+#: ../admin/setting.php:1118
+msgid "Show header ads"
+msgstr "Show header ads"
+
+#: ../admin/setting.php:1119
+msgid "Show header ads."
+msgstr "Show header ads."
+
+#: ../admin/setting.php:1125 ../admin/setting.php:1126
+msgid "header ads code"
+msgstr "header ads code"
+
+#: ../admin/setting.php:1127
+msgid "header ads code ."
+msgstr "header ads code ."
+
+#: ../admin/setting.php:1134 ../admin/setting.php:1135
+msgid "header ads img"
+msgstr "header ads img"
+
+#: ../admin/setting.php:1136
+msgid "header ads img upload"
+msgstr "header ads img upload"
+
+#: ../admin/setting.php:1142 ../admin/setting.php:1143
+#: ../admin/setting.php:1144
+msgid "header ads url"
+msgstr "header ads url"
+
+#: ../admin/setting.php:1150 ../admin/setting.php:1151
+#: ../admin/setting.php:1152
+msgid "header ads Alternate Name"
+msgstr "header ads Alternate Name"
+
+#: ../admin/setting.php:1161
+msgid "top footer ads"
+msgstr "top footer ads"
+
+#: ../admin/setting.php:1162
+msgid "Show top footer ads"
+msgstr "Show top footer ads"
+
+#: ../admin/setting.php:1163
+msgid "Show top footer ads."
+msgstr "Show top footer ads."
+
+#: ../admin/setting.php:1169 ../admin/setting.php:1170
+msgid "top footer ads code"
+msgstr "top footer ads code"
+
+#: ../admin/setting.php:1171
+msgid "top footer ads code ."
+msgstr "top footer ads code ."
+
+#: ../admin/setting.php:1178 ../admin/setting.php:1179
+msgid "top footer ads img"
+msgstr "top footer ads img"
+
+#: ../admin/setting.php:1180
+msgid "top footer ads img upload"
+msgstr "top footer ads img upload"
+
+#: ../admin/setting.php:1186 ../admin/setting.php:1187
+#: ../admin/setting.php:1188
+msgid "top footer ads url"
+msgstr "top footer ads url"
+
+#: ../admin/setting.php:1194 ../admin/setting.php:1195
+#: ../admin/setting.php:1196
+msgid "top footer ads Alternate Name"
+msgstr "top footer ads Alternate Name"
+
+#: ../admin/setting.php:1206 ../admin/setting.php:1207
+#: ../admin/setting.php:1208
+msgid "Feature Tabs"
+msgstr "Feature Tabs"
+
+#: ../admin/setting.php:1214
+msgid "First Tab"
+msgstr "First Tab"
+
+#: ../admin/setting.php:1215 ../admin/setting.php:1216
+msgid "Select First Tab Category"
+msgstr "Select First Tab Category"
+
+#: ../admin/setting.php:1223
+msgid "Second Tab"
+msgstr "Second Tab"
+
+#: ../admin/setting.php:1224 ../admin/setting.php:1225
+msgid "Select Second Tab Category"
+msgstr "Select Second Tab Category"
+
+#: ../admin/setting.php:1233
+msgid "Third Tab"
+msgstr "Third Tab"
+
+#: ../admin/setting.php:1234 ../admin/setting.php:1235
+msgid "Select Third Tab Category"
+msgstr "Select Third Tab Category"
+
+#: ../admin/setting.php:1243
+msgid "Fourth Tab"
+msgstr "Fourth Tab"
+
+#: ../admin/setting.php:1244 ../admin/setting.php:1245
+msgid "Select Fourth Tab Category"
+msgstr "Select Fourth Tab Category"
+
+#: ../admin/setting.php:1253
+msgid "Fifth  Tab"
+msgstr "Fifth  Tab"
+
+#: ../admin/setting.php:1254 ../admin/setting.php:1255
+msgid "Select Fifth  Tab Category"
+msgstr "Select Fifth  Tab Category"
+
+#: ../admin/setting.php:1263
+msgid "Sixth   Tab"
+msgstr "Sixth   Tab"
+
+#: ../admin/setting.php:1264 ../admin/setting.php:1265
+msgid "Select Sixth   Tab Category"
+msgstr "Select Sixth   Tab Category"
+
+#: ../admin/setting.php:1272
+msgid "Seventh Tab"
+msgstr "Seventh Tab"
+
+#: ../admin/setting.php:1273
+msgid "Select Seventh Tab Category"
+msgstr "Select Seventh Tab Category"
+
+#: ../admin/setting.php:1274
+msgid "Select Seventh  Tab Category"
+msgstr "Select Seventh  Tab Category"
+
+#: ../admin/setting.php:1283 ../admin/setting.php:1284
+#: ../admin/setting.php:1285
+#, fuzzy
+msgid "Feature Small Cat"
+msgstr "Feature Category"
+
+#: ../admin/setting.php:1291
+#, fuzzy
+msgid "First Cat"
+msgstr "First Tab"
+
+#: ../admin/setting.php:1292 ../admin/setting.php:1293
+#, fuzzy
+msgid "Select First Box Category"
+msgstr "Select First Tab Category"
+
+#: ../admin/setting.php:1300
+#, fuzzy
+msgid "Second Cat"
+msgstr "Second Tab"
+
+#: ../admin/setting.php:1301 ../admin/setting.php:1302
+#, fuzzy
+msgid "Select Second Box Category"
+msgstr "Select Second Tab Category"
+
+#: ../admin/setting.php:1310
+#, fuzzy
+msgid "Third Cat"
+msgstr "Third Tab"
+
+#: ../admin/setting.php:1311 ../admin/setting.php:1312
+#, fuzzy
+msgid "Select Third Box Category"
+msgstr "Select Third Tab Category"
+
+#: ../admin/setting.php:1320
+#, fuzzy
+msgid "Fourth Cat"
+msgstr "Fourth Tab"
+
+#: ../admin/setting.php:1321 ../admin/setting.php:1322
+#, fuzzy
+msgid "Select Fourth Box Category"
+msgstr "Select Fourth Tab Category"
+
+#: ../admin/setting.php:1330
+#, fuzzy
+msgid "Fifth Cat"
+msgstr "Fifth  Tab"
+
+#: ../admin/setting.php:1331 ../admin/setting.php:1332
+#, fuzzy
+msgid "Select Fifth Box Category"
+msgstr "Select Fifth  Tab Category"
+
+#: ../admin/setting.php:1340
+#, fuzzy
+msgid "Sixth Cat"
+msgstr "Sixth   Tab"
+
+#: ../admin/setting.php:1341 ../admin/setting.php:1342
+#, fuzzy
+msgid "Select Sixth Box Category"
+msgstr "Select Sixth   Tab Category"
+
+#: ../admin/setting.php:1350
+#, fuzzy
+msgid "Seventh Cat"
+msgstr "Seventh Tab"
+
+#: ../admin/setting.php:1351 ../admin/setting.php:1352
+#, fuzzy
+msgid "Select Seventh Box Category"
+msgstr "Select Seventh Tab Category"
+
+#: ../admin/setting.php:1360
+msgid "eighth Cat"
+msgstr ""
+
+#: ../admin/setting.php:1361 ../admin/setting.php:1362
+#, fuzzy
+msgid "Select eighth Box Category"
+msgstr "Select Fifth  Tab Category"
+
+#: ../admin/setting.php:1373 ../admin/setting.php:1374
+#: ../admin/setting.php:1375
+msgid "Show Feature Slider"
+msgstr "Show Feature Slider"
+
+#: ../admin/setting.php:1382 ../admin/setting.php:1383
+#: ../admin/setting.php:1384
+msgid "Slider Type"
+msgstr "Video Type"
+
+#: ../admin/setting.php:1392 ../admin/setting.php:1393
+#: ../admin/setting.php:1394
+msgid "Show Small Thumbs"
+msgstr "Show Small Thumbs"
+
+#: ../admin/setting.php:1401 ../admin/setting.php:1402
+msgid "Number Slides"
+msgstr "Number Slides"
+
+#: ../admin/setting.php:1403
+msgid "Number Slides Default 7 - More slides, Must Hide Small Thumbs"
+msgstr "Number Slides Default 7 - More slides, Must Hide Small Thumbs"
+
+#: ../admin/setting.php:1412 ../admin/setting.php:1413
+msgid "Slideshow Speed"
+msgstr ""
+
+#: ../admin/setting.php:1414
+msgid "Number Slides Default 4000"
+msgstr "Number Slides"
+
+#: ../admin/setting.php:1423 ../admin/setting.php:1424
+msgid "Animation Speed"
+msgstr ""
+
+#: ../admin/setting.php:1425
+msgid "Number Slides Default 600"
+msgstr "Number Slides"
+
+#: ../admin/setting.php:1436 ../admin/setting.php:1437
+msgid "feature display"
+msgstr "feature display"
+
+#: ../admin/setting.php:1473 ../admin/setting.php:1474
+msgid "Feature Category"
+msgstr "Feature Category"
+
+#: ../admin/setting.php:1483 ../admin/setting.php:1484
+msgid "Feature Tag"
+msgstr "Feature Tag"
+
+#: ../admin/setting.php:1495 ../admin/setting.php:1504
+msgid "SEO"
+msgstr "SEO"
+
+#: ../admin/setting.php:1496 ../admin/setting.php:1497
+msgid "Enable SEO"
+msgstr "Enable SEO"
+
+#: ../admin/setting.php:1505
+msgid "Keywords"
+msgstr "Keywords"
+
+#: ../admin/setting.php:1506
+msgid "Add Your Keywords"
+msgstr "Add Your Keywords"
+
+#: ../admin/setting.php:1518 ../admin/setting.php:1519
+#: ../admin/setting.php:1529 ../admin/setting.php:1540
+#: ../admin/setting.php:1551
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: ../admin/setting.php:1520
+msgid "Add Your Custom CSS"
+msgstr "Add Your Custom CSS"
+
+#: ../admin/setting.php:1528 ../admin/setting.php:1530
+msgid "Custom CSS For Device With 768px Width Like Ipad"
+msgstr "Custom CSS For Device With 768px Width Like Ipad"
+
+#: ../admin/setting.php:1539 ../admin/setting.php:1541
+msgid "Custom CSS For Device With 480px Width Like Landscape Phones"
+msgstr "Custom CSS For Device With 480px Width Like Landscape Phones"
+
+#: ../admin/setting.php:1550 ../admin/setting.php:1552
+msgid "Custom CSS For Device With 320px Width Like IPhones"
+msgstr "Custom CSS For Device With 320px Width Like IPhones"
+
+#: ../admin/setting.php:1622
+msgid "Theme Updates"
+msgstr "Theme Layout"
+
+#: ../admin/setting.php:1623
+msgid "Notify On Theme Updates"
+msgstr ""
+
+#: ../admin/setting.php:1624
+msgid "Notify On Theme Updates ."
+msgstr ""
+
+#: ../admin/setting.php:1631
+msgid ""
+"Twitter API -  You need to create <a href=\"https://dev.twitter.com/apps\" "
+"target=\"_blank\">Twitter APP</a> ."
+msgstr ""
+
+#: ../admin/setting.php:1639
+msgid "Twitter Username"
+msgstr "Twitter User name"
+
+#: ../admin/setting.php:1640
+msgid "Twitter Username ."
+msgstr "Twitter User name"
+
+#: ../admin/setting.php:1648
+msgid "Consumer key"
+msgstr ""
+
+#: ../admin/setting.php:1649
+msgid "Consumer key ."
+msgstr ""
+
+#: ../admin/setting.php:1657
+msgid "Consumer secret"
+msgstr ""
+
+#: ../admin/setting.php:1658
+msgid "Consumer secret ."
+msgstr ""
+
+#: ../admin/setting.php:1666
+msgid "Access token"
+msgstr "Access level"
+
+#: ../admin/setting.php:1667
+msgid "Access token ."
+msgstr "Access level"
+
+#: ../admin/setting.php:1675
+msgid "Access token secret"
+msgstr ""
+
+#: ../admin/setting.php:1676
+msgid "Access token secret ."
+msgstr ""
+
+#: ../admin/setting.php:1686 ../admin/setting.php:1687
+msgid "Export"
+msgstr "Export"
+
+#: ../admin/setting.php:1688
+msgid "save in text file"
+msgstr "save in text file"
+
+#: ../admin/setting.php:1697 ../admin/setting.php:1698
+#: ../admin/setting.php:1699
+msgid "Import"
+msgstr "Import"
+
+#: ../bdayh/metaboxes/meta-box.php:341
+msgid "+"
+msgstr "+"
+
+#: ../bdayh/metaboxes/meta-box.php:365
+msgid "&#8211;"
+msgstr "&#8211;"
+
+#: ../bdayh/metaboxes/meta-box.php:698
+msgid "RW_Meta_Box Debug:"
+msgstr "RW_Meta_Box Debug:"
+
+#: ../bdayh/metaboxes/post-meta.php:13
+#: ../bdayh/metaboxes/theme_metaboxes.php:160
+msgid "Quote Settings"
+msgstr "Quote Settings"
+
+#: ../bdayh/metaboxes/post-meta.php:14 ../bdayh/metaboxes/post-meta.php:21
+#: ../bdayh/metaboxes/theme_metaboxes.php:161
+#: ../bdayh/metaboxes/theme_metaboxes.php:168
+msgid "Input your quote."
+msgstr "Input your quote."
+
+#: ../bdayh/metaboxes/post-meta.php:20
+#: ../bdayh/metaboxes/theme_metaboxes.php:167
+msgid "The Quote"
+msgstr "The Quote"
+
+#: ../bdayh/metaboxes/post-meta.php:33
+#: ../bdayh/metaboxes/theme_metaboxes.php:181
+msgid "Link Settings"
+msgstr "Link Settings"
+
+#: ../bdayh/metaboxes/post-meta.php:34
+#: ../bdayh/metaboxes/theme_metaboxes.php:182
+msgid "Input your link"
+msgstr "Input your link"
+
+#: ../bdayh/metaboxes/post-meta.php:40
+#: ../bdayh/metaboxes/theme_metaboxes.php:190
+msgid "The Link"
+msgstr "The Link"
+
+#: ../bdayh/metaboxes/post-meta.php:41
+#: ../bdayh/metaboxes/theme_metaboxes.php:191
+msgid "Input your link. Example: http://www.bdayh.com"
+msgstr "Input your link. Example: http://www.bdayh.com"
+
+#: ../bdayh/metaboxes/post-meta.php:53
+msgid "Video Settings"
+msgstr "Video Settings"
+
+#: ../bdayh/metaboxes/post-meta.php:54
+msgid "These settings enable you to embed videos into your posts."
+msgstr "These settings enable you to embed videos into your posts."
+
+#: ../bdayh/metaboxes/post-meta.php:60
+msgid "Video Height"
+msgstr "Video Height"
+
+#: ../bdayh/metaboxes/post-meta.php:61
+msgid "The video height when image is 580px wide."
+msgstr "The video height when image is 580px wide."
+
+#: ../bdayh/metaboxes/post-meta.php:67
+msgid "M4V File URL"
+msgstr "M4V File URL"
+
+#: ../bdayh/metaboxes/post-meta.php:68
+msgid "The URL to the .m4v video file"
+msgstr "The URL to the .m4v video file"
+
+#: ../bdayh/metaboxes/post-meta.php:74
+msgid "OGV File URL"
+msgstr "OGV File URL"
+
+#: ../bdayh/metaboxes/post-meta.php:75
+msgid "The URL to the .ogv video file"
+msgstr "The URL to the .ogv video file"
+
+#: ../bdayh/metaboxes/post-meta.php:81
+msgid "Poster Image"
+msgstr "Poster Image"
+
+#: ../bdayh/metaboxes/post-meta.php:82
+msgid ""
+"The preview image. Image should be 580px wide. Click to upload and then "
+"\"Insert into Post\"."
+msgstr ""
+"The preview image. Image should be 580px wide. Click to upload and then "
+"\"Insert into Post\"."
+
+#: ../bdayh/metaboxes/post-meta.php:88
+msgid "Embedded Code"
+msgstr "Embedded Code"
+
+#: ../bdayh/metaboxes/post-meta.php:89
+msgid ""
+"If you are using something other than self hosted video such as Youtube or "
+"Vimeo, paste the embed code here. Width is best at 580px with any height."
+"<br><br> This field will override the above fields."
+msgstr ""
+"If you are using something other than self hosted video such as Youtube or "
+"Vimeo, paste the embed code here. Width is best at 580px with any height."
+"<br><br> This field will override the above fields."
+
+#: ../bdayh/metaboxes/post-meta.php:101
+msgid "Audio Settings"
+msgstr "Audio Settings"
+
+#: ../bdayh/metaboxes/post-meta.php:102
+msgid "These settings enable you to embed audio into your posts."
+msgstr "These settings enable you to embed audio into your posts."
+
+#: ../bdayh/metaboxes/post-meta.php:108
+msgid "MP3 File URL"
+msgstr "MP3 File URL"
+
+#: ../bdayh/metaboxes/post-meta.php:109
+msgid "The URL to the .mp3 audio file"
+msgstr "The URL to the .mp3 audio file"
+
+#: ../bdayh/metaboxes/post-meta.php:115
+msgid "OGA File URL"
+msgstr "OGA File URL"
+
+#: ../bdayh/metaboxes/post-meta.php:116
+msgid "The URL to the .oga, .ogg audio file"
+msgstr "The URL to the .oga, .ogg audio file"
+
+#: ../bdayh/metaboxes/post-meta.php:122
+msgid "Audio Poster Image"
+msgstr "Audio Poster Image"
+
+#: ../bdayh/metaboxes/post-meta.php:123
+msgid ""
+"The preview image for this audio track. Image should be 580px wide. Click to "
+"upload and then \"Insert into Post\"."
+msgstr ""
+"The preview image for this audio track. Image should be 580px wide. Click to "
+"upload and then \"Insert into Post\"."
+
+#: ../bdayh/metaboxes/post-meta.php:129
+msgid "Audio Poster Image Height"
+msgstr "Audio Poster Image Height"
+
+#: ../bdayh/metaboxes/post-meta.php:130
+msgid "The height of the poster image when the image has a width of 580px"
+msgstr "The height of the poster image when the image has a width of 580px"
+
+#: ../bdayh/metaboxes/theme_metaboxes.php:138
+msgid "Gallery Settings"
+msgstr "Gallery Settings"
+
+#: ../bdayh/metaboxes/theme_metaboxes.php:139
+msgid ""
+"Upload images to this post using the below controls. Please note that the "
+"Featured Image will be used as the \"cover\" image and will be skipped in "
+"the gallery."
+msgstr ""
+"Upload images to this post using the below controls. Please note that the "
+"Featured Image will be used as the \"cover\" image and will be skipped in "
+"the gallery."
+
+#: ../bdayh/metaboxes/theme_metaboxes.php:145
+#: ../bdayh/metaboxes/theme_metaboxes.php:149
+msgid "Upload Images"
+msgstr "Upload Images"
+
+#: ../bdayh/metaboxes/theme_metaboxes.php:146
+msgid "Click to upload images."
+msgstr "Click to upload images."
+
+#: ../bdayh/metaboxes/theme_metaboxes.php:215
+msgid "Show Featured Image on post"
+msgstr "Show Video on post"
+
+#: ../bdayh/metaboxes/theme_metaboxes.php:227
+msgid "Show Slider on post"
+msgstr "Show Video on post"
+
+#: ../bdayh/metaboxes/theme_metaboxes.php:253
+msgid "Video Type"
+msgstr "Video Type"
+
+#: ../bdayh/metaboxes/theme_metaboxes.php:260
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../bdayh/metaboxes/theme_metaboxes.php:261
+msgid "Dialymotion"
+msgstr "Dialymotion"
+
+#: ../bdayh/metaboxes/theme_metaboxes.php:267
+msgid "Show Video on post"
+msgstr "Show Video on post"
+
+#: ../bdayh/metaboxes/theme_metaboxes.php:279
+msgid "Video ID"
+msgstr "Video ID"
+
+#: ../bdayh/metaboxes/inc/fields/color.php:45
+msgid "Select a color"
+msgstr "Select a color"
+
+#: ../bdayh/metaboxes/inc/fields/file.php:69
+msgid "Error: Cannot delete file"
+msgstr "Error: Cannot delete file"
+
+#: ../bdayh/metaboxes/inc/fields/image.php:68
+msgid "Order saved"
+msgstr "Order saved"
+
+#: ../functions/admin-thumbnails.php:26 ../functions/admin-thumbnails.php:47
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: ../functions/breadcrumbs.php:15
+msgid "You Are Here: "
+msgstr "Βρίσκεστε εδώ: "
+
+#: ../functions/breadcrumbs.php:77
+msgid "Search results for "
+msgstr "Αποτελέσματα αναζήτησης για"
+
+#: ../functions/breadcrumbs.php:80
+msgid "Posts tagged "
+msgstr "Αναρτήσεις με ετικέτες"
+
+#: ../functions/breadcrumbs.php:85
+msgid "Articles posted by "
+msgstr "Άρθρα αναρτημένα από"
+
+#: ../functions/breadcrumbs.php:88
+msgid "Error 404 "
+msgstr "Σφάλμα 404"
+
+#: ../functions/breadcrumbs.php:93
+msgid "Page"
+msgstr "Σελίδα"
+
+#: ../functions/pagenavi.php:145
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "Σελίδα %CURRENT_PAGE% από %TOTAL_PAGES%"
+
+#: ../functions/pagenavi.php:148
+msgid "&laquo; First"
+msgstr "&laquo; Πρώτη"
+
+#: ../functions/pagenavi.php:149
+msgid "Last &raquo;"
+msgstr "Τελευταία &raquo;"
+
+#: ../functions/pagenavi.php:150
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: ../functions/pagenavi.php:151
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: ../functions/pagenavi.php:152 ../functions/pagenavi.php:153
+msgid "..."
+msgstr "..."
+
+#: ../functions/rate.php:239
+#, fuzzy
+msgid "Your Rating"
+msgstr "Post Ratings"
+
+#: ../functions/rate.php:240
+#, fuzzy
+msgid "User Rating"
+msgstr "Post Ratings"
+
+#: ../functions/rate.php:240
+msgid "votes"
+msgstr ""
+
+#: ../shortcode/shortcodes/buttons.php:15
+#, fuzzy
+msgid "Insert Button"
+msgstr "Pinterest"
+
+#: ../shortcode/shortcodes/buttons.php:45
+#: ../shortcode/shortcodes/social_link.php:38
+msgid "Type of button:"
+msgstr ""
+
+#: ../shortcode/shortcodes/buttons.php:46
+#: ../shortcode/shortcodes/notifications.php:38
+#: ../shortcode/shortcodes/social_link.php:39
+msgid "Choose a type:"
+msgstr ""
+
+#: ../shortcode/shortcodes/buttons.php:48
+#: ../shortcode/shortcodes/notifications.php:40
+#: ../shortcode/shortcodes/social_link.php:41
+msgid "Select type"
+msgstr ""
+
+#: ../shortcode/shortcodes/buttons.php:49
+msgid "small button"
+msgstr ""
+
+#: ../shortcode/shortcodes/buttons.php:50
+msgid "middle button black"
+msgstr ""
+
+#: ../shortcode/shortcodes/buttons.php:51
+#, fuzzy
+msgid "large color button"
+msgstr "Show Socail Buttons"
+
+#: ../shortcode/shortcodes/buttons.php:55
+#: ../shortcode/shortcodes/social_link.php:81
+msgid "URL for button:"
+msgstr ""
+
+#: ../shortcode/shortcodes/buttons.php:56
+#: ../shortcode/shortcodes/social_link.php:82
+msgid "Type your URL here:"
+msgstr ""
+
+#: ../shortcode/shortcodes/buttons.php:60
+#: ../shortcode/shortcodes/social_link.php:86
+#, fuzzy
+msgid "Link target:"
+msgstr "Link :"
+
+#: ../shortcode/shortcodes/buttons.php:61
+#: ../shortcode/shortcodes/social_link.php:87
+msgid "Check if you want open in new window:"
+msgstr ""
+
+#: ../shortcode/shortcodes/buttons.php:75
+#, fuzzy
+msgid "Preview:"
+msgstr "Προηγούμενη"
+
+#: ../shortcode/shortcodes/buttons.php:81
+#: ../shortcode/shortcodes/googlemaps.php:43
+#: ../shortcode/shortcodes/notifications.php:50
+#: ../shortcode/shortcodes/social_button.php:340
+#: ../shortcode/shortcodes/social_link.php:93
+#: ../shortcode/shortcodes/soundcloud.php:35
+#: ../shortcode/shortcodes/vimeo.php:35 ../shortcode/shortcodes/youtube.php:35
+msgid "Insert"
+msgstr ""
+
+#: ../shortcode/shortcodes/googlemaps.php:15
+msgid "Insert Google maps"
+msgstr ""
+
+#: ../shortcode/shortcodes/notifications.php:15
+msgid "Insert Notification"
+msgstr ""
+
+#: ../shortcode/shortcodes/notifications.php:37
+msgid "Type of notification:"
+msgstr ""
+
+#: ../shortcode/shortcodes/notifications.php:41
+msgid "Successful"
+msgstr ""
+
+#: ../shortcode/shortcodes/notifications.php:42
+#, fuzzy
+msgid "Error"
+msgstr "Σφάλμα 404"
+
+#: ../shortcode/shortcodes/notifications.php:43
+msgid "Warning"
+msgstr ""
+
+#: ../shortcode/shortcodes/notifications.php:44
+msgid "Info"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:15
+#, fuzzy
+msgid "Insert Share Buttons"
+msgstr "Show Socail Buttons"
+
+#: ../shortcode/shortcodes/social_button.php:192
+msgid "Size:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:193
+msgid "Choose a size:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:195
+msgid "Small (15px)"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:196
+msgid "Standard(24px)"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:197
+msgid "Medium(20px)"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:198
+msgid "Tall(60px)"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:202
+msgid "Type of Annotation:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:203
+msgid "Choose a Annotation:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:205
+msgid "Inline"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:206
+msgid "Bubble"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:207
+#: ../shortcode/shortcodes/social_button.php:226
+msgid "None"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:211
+#, fuzzy
+msgid "Advanced options:"
+msgstr "Advanced Settings"
+
+#: ../shortcode/shortcodes/social_button.php:212
+msgid "HTML5 valid syntax:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:215
+msgid "URL to +1:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:223
+msgid "Count box position:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:224
+#, fuzzy
+msgid "Choose a Position:"
+msgstr "Show Meta Pagination :"
+
+#: ../shortcode/shortcodes/social_button.php:227
+#: ../shortcode/shortcodes/social_button.php:326
+msgid "Horizontal"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:228
+#: ../shortcode/shortcodes/social_button.php:327
+msgid "Vertical"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:232
+msgid "Button size:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:233
+msgid "Large:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:237
+msgid "URL of the page to share:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:238
+msgid "URL(default: URL of the webpage):"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:243
+msgid "Recommended accounts:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:249
+msgid "Via user:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:255
+msgid "Default Tweet text:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:256
+#: ../shortcode/shortcodes/social_button.php:333
+msgid "Text:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:264
+msgid "URL to Like:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:265
+#: ../shortcode/shortcodes/social_button.php:314
+#: ../shortcode/shortcodes/social_button.php:319
+msgid "URL:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:269
+#: ../shortcode/shortcodes/social_button.php:270
+#, fuzzy
+msgid "Send Button:"
+msgstr "Linkedin"
+
+#: ../shortcode/shortcodes/social_button.php:274
+msgid "Layout Style:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:275
+#: ../shortcode/shortcodes/social_button.php:324
+#, fuzzy
+msgid "Choose a Layout:"
+msgstr "Theme Layout"
+
+#: ../shortcode/shortcodes/social_button.php:277
+msgid "Standard"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:278
+msgid "Button Count"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:279
+#, fuzzy
+msgid "Box Count"
+msgstr "Box Layout"
+
+#: ../shortcode/shortcodes/social_button.php:283
+#: ../shortcode/shortcodes/social_button.php:284 ../widgets/fb.php:51
+msgid "Width:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:288
+msgid "Show profile picture:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:289
+#, fuzzy
+msgid "Show Faces:"
+msgstr "Show date "
+
+#: ../shortcode/shortcodes/social_button.php:293
+#, fuzzy
+msgid "Verb to display"
+msgstr "feature display"
+
+#: ../shortcode/shortcodes/social_button.php:294
+msgid "Choose a Verb:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:296
+msgid "Like"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:297
+#, fuzzy
+msgid "Recommend"
+msgstr "σχόλια : "
+
+#: ../shortcode/shortcodes/social_button.php:301
+msgid "Color Scheme "
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:302
+msgid "Choose a Scheme:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:304
+msgid "Light"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:305
+msgid "Dark"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:313
+msgid "Page the pin is on:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:318
+msgid "Image to be pinned:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:323
+msgid "Pin Count:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:328
+msgid "No Count"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_button.php:332
+msgid "What they're pinning:"
+msgstr ""
+
+#: ../shortcode/shortcodes/social_link.php:16
+msgid "Insert Social Link"
+msgstr ""
+
+#: ../shortcode/shortcodes/soundcloud.php:15
+msgid "Insert soundcloud"
+msgstr ""
+
+#: ../shortcode/shortcodes/vimeo.php:15
+msgid "Insert vimeo"
+msgstr ""
+
+#: ../shortcode/shortcodes/youtube.php:15
+#, fuzzy
+msgid "Insert Youtube"
+msgstr "Youtube"
+
+#: ../templates/blog-loop.php:39
+msgid "In :"
+msgstr "Μέσα : "
+
+#: ../templates/blog-loop.php:40
+msgid "comment :"
+msgstr "σχόλια : "
+
+#: ../templates/content.php:41
+msgid "Read more ..."
+msgstr "Περισσότερα εδώ..."
+
+#: ../templates/related.php:3
+msgid "Related posts"
+msgstr "Σχετικοί διαγωνισμοί"
+
+#: ../templates/related.php:59 ../templates/related.php:123
+msgid "&raquo; "
+msgstr "&raquo; "
+
+#: ../templates/related.php:64 ../templates/related.php:128
+msgid "There is no related posts."
+msgstr "Δεν υπάρχουν παρόμοιοι διαγωνισμοί."
+
+#: ../templates/slider.php:4
+msgid "prev"
+msgstr "prev"
+
+#: ../templates/slider.php:5
+msgid "next"
+msgstr "next"
+
+#: ../widgets/ads120.php:71
+msgid "Ads 120 x 600"
+msgstr ""
+
+#: ../widgets/ads125.php:83
+msgid "Ads 125"
+msgstr ""
+
+#: ../widgets/ads250.php:64
+msgid "Ads 250 x 250"
+msgstr ""
+
+#: ../widgets/ads300.php:65
+msgid "Ads 300 x 300"
+msgstr ""
+
+#: ../widgets/bio-author.php:19
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../widgets/category-posts.php:69 ../widgets/slider.php:71
+msgid "Category Posts"
+msgstr "Category Posts"
+
+#: ../widgets/category-posts.php:73 ../widgets/fb.php:47
+#: ../widgets/related.php:95 ../widgets/twittes.php:122
+#: ../widgets/video.php:46
+msgid "Title:"
+msgstr "Title:"
+
+#: ../widgets/category-posts.php:77 ../widgets/related.php:99
+#: ../widgets/slider.php:75
+#, fuzzy
+msgid "Number of posts to show:"
+msgstr "Number of posts to show"
+
+#: ../widgets/category-posts.php:81 ../widgets/slider.php:79
+#, fuzzy
+msgid "Select Category:"
+msgstr "Select First Tab Category"
+
+#: ../widgets/category-posts.php:83 ../widgets/slider.php:81
+#, fuzzy
+msgid "All Categories"
+msgstr "Κατηγορίες"
+
+#: ../widgets/fb.php:55
+#, fuzzy
+msgid "Height:"
+msgstr "Video Height"
+
+#: ../widgets/fb.php:59
+msgid "Background Color: (color code without #)"
+msgstr ""
+
+#: ../widgets/fb.php:63
+msgid "Box border Color: (color code without #)"
+msgstr ""
+
+#: ../widgets/fb.php:67
+#, fuzzy
+msgid "Facebook Page URL:"
+msgstr "Facebook"
+
+#: ../widgets/google-follow.php:45
+msgid "Follow Us On Google+"
+msgstr "Follow Us On Google+"
+
+#: ../widgets/google-follow.php:49 ../widgets/popular-posts.php:36
+#: ../widgets/recent-posts.php:36 ../widgets/social-counter.php:122
+#: ../widgets/social-links.php:27
+msgid "Title : "
+msgstr "Title : "
+
+#: ../widgets/google-follow.php:53
+msgid "Google+ url"
+msgstr "Google+ url"
+
+#: ../widgets/google-follow.php:55 ../widgets/newsletter.php:59
+msgid "example"
+msgstr "example"
+
+#: ../widgets/new-in-pic.php:34
+#, fuzzy
+msgid "News in Pictures"
+msgstr "News In Pictures"
+
+#: ../widgets/new-in-pic.php:47
+msgid "Number of posts to show"
+msgstr "Number of posts to show"
+
+#: ../widgets/newsletter.php:25
+msgid "Enter your e-mail address"
+msgstr "Enter your e-mail address"
+
+#: ../widgets/newsletter.php:30 ../widgets/social-counter.php:62
+msgid "Subscribe"
+msgstr "Subscribe"
+
+#: ../widgets/newsletter.php:45
+msgid "Newsletter Widget"
+msgstr "Newsletter Widget"
+
+#: ../widgets/newsletter.php:45
+msgid "Subscribe to our email newsletter."
+msgstr "Subscribe to our email newsletter."
+
+#: ../widgets/newsletter.php:53
+msgid "Paragraph"
+msgstr "Paragraph"
+
+#: ../widgets/popular-posts.php:32
+msgid "Popular Posts"
+msgstr "Popular Posts"
+
+#: ../widgets/related.php:91
+#, fuzzy
+msgid "Related Posts"
+msgstr "Σχετικοί διαγωνισμοί"
+
+#: ../widgets/search.php:26
+msgid "All Content"
+msgstr "Alert Bar Content"
+
+#: ../widgets/social-counter.php:50 ../widgets/social-counter.php:68
+#: ../widgets/social-counter.php:86
+msgid "Followers"
+msgstr "Followers"
+
+#: ../widgets/social-counter.php:56
+msgid "Fans"
+msgstr "Fans"
+
+#: ../widgets/social-counter.php:74 ../widgets/social-counter.php:80
+msgid "Subscribers"
+msgstr "Subscribers"
+
+#: ../widgets/social-counter.php:118
+#, fuzzy
+msgid "Follow Me"
+msgstr "Followers"
+
+#: ../widgets/social-counter.php:126
+msgid "Feed URL : "
+msgstr ""
+
+#: ../widgets/social-counter.php:138
+#, fuzzy
+msgid "Twitter : "
+msgstr "Twitter"
+
+#: ../widgets/social-counter.php:142
+msgid "Facebook Page ID/Name : "
+msgstr ""
+
+#: ../widgets/social-counter.php:146
+msgid "Google+ Page ID/Name : "
+msgstr ""
+
+#: ../widgets/social-counter.php:150
+msgid "Youtube User ID : "
+msgstr ""
+
+#: ../widgets/social-counter.php:154
+msgid "Vimeo Channel Name : "
+msgstr ""
+
+#: ../widgets/social-counter.php:158
+msgid "Soundcloud User Name : "
+msgstr ""
+
+#: ../widgets/social-counter.php:162
+#, fuzzy
+msgid "Design Style : "
+msgstr "Title : "
+
+#: ../widgets/social-links.php:23
+msgid "Socials Icon"
+msgstr "Socials Icon"
+
+#: ../widgets/tabs.php:21
+msgid "Popular"
+msgstr "Δημοφιλή"
+
+#: ../widgets/tabs.php:26
+msgid "Recent"
+msgstr "Πρόσφατα"
+
+#: ../widgets/tabs.php:72
+msgid "Tabs"
+msgstr "Tabs"
+
+#: ../widgets/twittes.php:112
+#, fuzzy
+msgid "Recent Tweets"
+msgstr "Recent Posts"
+
+#: ../widgets/twittes.php:126
+#, fuzzy
+msgid "Number of Tweets:"
+msgstr "Number of posts"
+
+#: ../widgets/video.php:42
+#, fuzzy
+msgid "Video"
+msgstr "Video ID"
+
+#: ../widgets/video.php:50
+msgid "type"
+msgstr ""
+
+#: ../widgets/video.php:58
+#, fuzzy
+msgid "Video ID:"
+msgstr "Video ID"
+
+#: ../widgets/youtube-subscribe.php:34
+msgid "Subscribe to our Channel"
+msgstr "Subscribe to our email newsletter."
+
+#~ msgid "site"
+#~ msgstr "σελίδα"
+
+#~ msgid "Post Ratings :"
+#~ msgstr "Post Ratings"
+
+#~ msgid "Posts Ratings Home"
+#~ msgstr "Posts Ratings Home"
+
+#~ msgid "Turn this on to show Posts Ratings Home"
+#~ msgstr "Turn this on to show Posts Ratings Home"
+
+#~ msgid "Posts Ratings Article"
+#~ msgstr "Posts Ratings Article"
+
+#~ msgid "Turn this on to show Posts Ratings Article"
+#~ msgstr "Turn this on to show Posts Ratings Article"
+
+#~ msgid "Posts Ratings Archives"
+#~ msgstr "Posts Ratings Archives"
+
+#~ msgid "Turn this on to show Posts Ratings Archives"
+#~ msgstr "Turn this on to show Posts Ratings Archives"
+
+#~ msgid "Posts Ratings Tabs"
+#~ msgstr "Posts Ratings Tabs"
+
+#~ msgid "Turn this on to show Posts Ratings Tabs"
+#~ msgstr "Turn this on to show Posts Ratings Tabs"
+
+#~ msgid "Custom Sidebars"
+#~ msgstr "Custom Sidebars"
+
+#~ msgid "No Sidebars defined"
+#~ msgstr "No Sidebars defined"
+
+#~ msgid ""
+#~ "Select the custom sidebar, leave unselected to use the default sidebar"
+#~ msgstr ""
+#~ "Select the custom sidebar, leave unselected to use the default sidebar"
+
+#~ msgid "Error retrieving video information from the URL <a href=\""
+#~ msgstr "Error retrieving video information from the URL <a href=\""
+
+#~ msgid "Error retrieving a thumbnail from the URL <a href=\""
+#~ msgstr "Error retrieving a thumbnail from the URL <a href=\""
+
+#~ msgid "You do not have sufficient permissions to access this page."
+#~ msgstr "You do not have sufficient permissions to access this page."
+
+#~ msgid "Save Changes"
+#~ msgstr "Save Changes"
+
+#~ msgid "Archives"
+#~ msgstr "Archives"
+
+#~ msgid "Single pages"
+#~ msgstr "Single pages"
+
+#~ msgid "Search results"
+#~ msgstr "Search results"
+
+#~ msgid "Global stats"
+#~ msgstr "Global stats"
+
+#~ msgid "%1$s votes (on %2$s posts)"
+#~ msgstr "%1$s votes (on %2$s posts)"
+
+#~ msgid "Average vote count per post: %s"
+#~ msgstr "Average vote count per post: %s"
+
+#~ msgid "Average rating per post: %s"
+#~ msgstr "Average rating per post: %s"
+
+#~ msgid "Access level"
+#~ msgstr "Access level"
+
+#~ msgid "Allow unregistered users to vote"
+#~ msgstr "Allow unregistered users to vote"
+
+#~ msgid "Maximum rating"
+#~ msgstr "Maximum rating"
+
+#~ msgid "Changing this option will reset existing post rating records"
+#~ msgstr "Changing this option will reset existing post rating records"
+
+#~ msgid "Bayesian rating (score) formula"
+#~ msgstr "Bayesian rating (score) formula"
+
+#~ msgid "from %s"
+#~ msgstr "από %s"
+
+#~ msgid "I have my own formula:"
+#~ msgstr "I have my own formula:"
+
+#~ msgid "Legend"
+#~ msgstr "Legend"
+
+#~ msgid "Global average number of votes per post"
+#~ msgstr "Global average number of votes per post"
+
+#~ msgid "Global number of votes (from all posts)"
+#~ msgstr "Global number of votes (from all posts)"
+
+#~ msgid "Number of votes from the current post"
+#~ msgstr "Number of votes from the current post"
+
+#~ msgid "Global average rating per post (from 1 to %d)"
+#~ msgstr "Global average rating per post (from 1 to %d)"
+
+#~ msgid "Average rating of the current post (from 1 to %d)"
+#~ msgstr "Average rating of the current post (from 1 to %d)"
+
+#~ msgid "Minimum vote count per post to consider (%d by default)"
+#~ msgstr "Minimum vote count per post to consider (%d by default)"
+
+#~ msgid "Maximum rating, see option above (currently %d)"
+#~ msgstr "Maximum rating, see option above (currently %d)"
+
+#~ msgid "Allow ratings on"
+#~ msgstr "Allow ratings on"
+
+#~ msgid "Locations of the rate links"
+#~ msgstr "Locations of the rate links"
+
+#~ msgid "Before post content"
+#~ msgstr "Before post content"
+
+#~ msgid "After post content "
+#~ msgstr "After post content "
+
+#~ msgid "I have my own action hook:"
+#~ msgstr "I have my own action hook:"
+
+#~ msgid "You can also add it manually anywhere by using the %s shortcode"
+#~ msgstr "You can also add it manually anywhere by using the %s shortcode"
+
+#~ msgid "Page visibility"
+#~ msgstr "Page visibility"
+
+#~ msgid "Delete rating records from all posts"
+#~ msgstr "Delete rating records from all posts"
+
+#~ msgid ""
+#~ "Found a bug, having a feature request or just looking for help on using "
+#~ "this plugin? Then head on to the %s."
+#~ msgstr ""
+#~ "Found a bug, having a feature request or just looking for help on using "
+#~ "this plugin? Then head on to the %s."
+
+#~ msgid "Post Ratings support forums"
+#~ msgstr "Post Ratings support forums"
+
+#~ msgid "Invalid vote! Cheatin' uh?"
+#~ msgstr "Invalid vote! Cheatin' uh?"
+
+#~ msgid "You cannot rate this post!"
+#~ msgstr "You cannot rate this post!"
+
+#~ msgid "Your '%s' action is must run in a post's context!"
+#~ msgstr "Your '%s' action is must run in a post's context!"
+
+#~ msgid "Top Rated"
+#~ msgstr "Top Rated"
+
+#~ msgid "The highest rated posts on your site"
+#~ msgstr "The highest rated posts on your site"
+
+#~ msgid "%s out of 10"
+#~ msgstr "%s out of 10"
+
+#~ msgid "Show More"
+#~ msgstr "Περισσότερα εδώ"
+
+#~ msgid "Get most rated:"
+#~ msgstr "Get most rated:"
+
+#~ msgid "Sort by:"
+#~ msgstr "Sort by:"
+
+#~ msgid "Overall bayesian rating (score)"
+#~ msgstr "Overall bayesian rating (score)"
+
+#~ msgid "Average rating"
+#~ msgstr "Average rating"
+
+#~ msgid "Number of votes"
+#~ msgstr "Number of votes"
+
+#~ msgid "Descending"
+#~ msgstr "Descending"
+
+#~ msgid "Ascending"
+#~ msgstr "Ascending"
+
+#~ msgid "Ignore posts older than:"
+#~ msgstr "Ignore posts older than:"
+
+#~ msgid "days"
+#~ msgstr "days"
+
+#~ msgid "(0 to ignore date)"
+#~ msgstr "(0 to ignore date)"
+
+#~ msgid "Thumbnail Size:"
+#~ msgstr "Thumbnail Size:"
+
+#~ msgid "pixels"
+#~ msgstr "pixels"
+
+#~ msgid "Limit:"
+#~ msgstr "Limit:"
+
+#~ msgid "Display %s Link"
+#~ msgstr "Display %s Link"
+
+#~ msgid "Read the %s to see all available keywords."
+#~ msgstr "Read the %s to see all available keywords."
+
+#~ msgid "documentation"
+#~ msgstr "Read the %s to see all available keywords."
+
+#~ msgid ""
+#~ "<strong>Important:</strong> %1$s sized thumbnails have to be created if "
+#~ "you just added this widget, or if you're changing the thumbnail size. "
+#~ "Read more about thumbnail sizes %2$s"
+#~ msgstr ""
+#~ "<strong>Important:</strong> %1$s sized thumbnails have to be created if "
+#~ "you just added this widget, or if you're changing the thumbnail size. "
+#~ "Read more about thumbnail sizes %2$s"
+
+#~ msgid "here"
+#~ msgstr "here"
+
+#~ msgid "Give %1$d out of %2$d stars"
+#~ msgstr "Give %1$d out of %2$d stars"
+
+#~ msgid "About The Author"
+#~ msgstr "About The Author"
+
+#~ msgid "Widget display 120 x 90 Ads"
+#~ msgstr "Widget display 120 x 90 Ads"
+
+#~ msgid "advertisement"
+#~ msgstr "advertisement"
+
+#~ msgid "Ads120x90"
+#~ msgstr "Ads120x90"
+
+#~ msgid "transparent background"
+#~ msgstr "transparent background"
+
+#~ msgid "First Ads"
+#~ msgstr "First Ads"
+
+#~ msgid "image:"
+#~ msgstr "image:"
+
+#~ msgid "titletip :"
+#~ msgstr "titletip :"
+
+#~ msgid "ad code :"
+#~ msgstr "ad code :"
+
+#~ msgid "Second Ads"
+#~ msgstr "Second Ads"
+
+#~ msgid "link2 :"
+#~ msgstr "link2 :"
+
+#~ msgid "titletip2 :"
+#~ msgstr "titletip2 :"
+
+#~ msgid "Third Ads"
+#~ msgstr "Third Ads"
+
+#~ msgid "link3 :"
+#~ msgstr "link3 :"
+
+#~ msgid "titletip3 :"
+#~ msgstr "titletip3 :"
+
+#~ msgid "Fourth Ads"
+#~ msgstr "Fourth Ads"
+
+#~ msgid "link4 :"
+#~ msgstr "link4 :"
+
+#~ msgid "titletip4 :"
+#~ msgstr "titletip4 :"
+
+#~ msgid "Widget display 125*125 Ads"
+#~ msgstr "Widget display 125*125 Ads"
+
+#~ msgid "Ads125"
+#~ msgstr "Ads125"
+
+#~ msgid "Widget display 160 x 600 Ads"
+#~ msgstr "Widget display 160 x 600 Ads"
+
+#~ msgid "Ads160x600"
+#~ msgstr "Ads160x600"
+
+#~ msgid "Widget display 250 x 250 Ads"
+#~ msgstr "Widget display 250 x 250 Ads"
+
+#~ msgid "Ads250x250"
+#~ msgstr "Ads250x250"
+
+#~ msgid "Widget display 280 x 250 Ads"
+#~ msgstr "Widget display 280 x 250 Ads"
+
+#~ msgid "Ads280x250"
+#~ msgstr "Ads280x250"
+
+#~ msgid "Widget display 300 x 250 Ads"
+#~ msgstr "Widget display 300 x 250 Ads"
+
+#~ msgid "ads300x250"
+#~ msgstr "ads300x250"
+
+#~ msgid "Display Thumbinals"
+#~ msgstr "Display Thumbinals"
+
+#~ msgid "About Author"
+#~ msgstr "About The Author"
+
+#~ msgid "Find us on Facebook"
+#~ msgstr "Find us on Facebook"
+
+#~ msgid "Follow Us On Twitter"
+#~ msgstr "Follow Us On Twitter"
+
+#~ msgid "Category : "
+#~ msgstr "Κατηγορία :"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid " Featured Video"
+#~ msgstr " Featured Video"
+
+#~ msgid "on Facebook"
+#~ msgstr "στο Facebook"
+
+#~ msgid "on Twitter"
+#~ msgstr "στο Twitter"
+
+#~ msgid "on Google+"
+#~ msgstr "στο Google+"
+
+#~ msgid "on Linkedin"
+#~ msgstr "στο Linkedin"
+
+#~ msgid "on Pinterest"
+#~ msgstr "στο Pinterest"
+
+#~ msgid "on YouTube"
+#~ msgstr "στο YouTube"
+
+#~ msgid "on Flickr"
+#~ msgstr "στο Flickr"
+
+#~ msgid "Permanent Link to %s"
+#~ msgstr "Μόνιμος σύνδεσμος για %s"
+
+#~ msgid "Background Color"
+#~ msgstr "Background Color"
+
+#~ msgid "Show Socail Buttons Pages"
+#~ msgstr "Show Socail Buttons Pages"
+
+#~ msgid "Show Comment Counter"
+#~ msgstr "Show Comment Counter"
+
+#~ msgid "To RSS Feed"
+#~ msgstr "To RSS Feed"
+
+#~ msgid "Twitter Feed"
+#~ msgstr "Twitter Feed"
+
+#~ msgid "5"
+#~ msgstr "5"
+
+#~ msgid "latest news"
+#~ msgstr "τελευταία νέα"
+
+#~ msgid "Permalink to %s"
+#~ msgstr "Σύνδεσμος σε %s"

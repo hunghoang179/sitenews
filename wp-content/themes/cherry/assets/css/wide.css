@@ -1,0 +1,6 @@
+.header { margin-top: 0px !important; }
+.wrapper { width: 100%; }
+header .logo, .toolbar ul.top_menu, nav ul.menu { margin-left: 0px; }
+header .ads_468, .toolbar .search { margin-right: 0px; }
+.top-date { margin-left: 0px !important; }
+.top-date { margin-right: 15px !important; }

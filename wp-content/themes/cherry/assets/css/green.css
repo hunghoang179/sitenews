@@ -1,0 +1,54 @@
+blockquote,
+div.small-cat .sc-col .sc-container h2.sc-title,
+#bd-review-header,
+div.bd-review-summary
+{
+    border-color: #5ba10f;
+}
+div#bd-criteria-final-score,
+span.bd-criteria-percentage
+{
+    background: #5ba10f;
+}
+::selection { background: #5ba10f; }
+::-moz-selection {
+ background: #5ba10f;
+}
+a { color: #40454d; }
+a:hover,
+#header-nav ul li ul li a:hover, #header-nav ul li ul li.current-menu-item a,
+span.bd-criteria-percentage{ color: #4a8b04; }
+nav {
+	background: #67b215 url(../images/green.png) repeat-x center top;
+	border-top: 1px #eaeaea solid;
+	height: 54px;
+}
+.login_form .go button, .go_search button, .form-submit #submit, .search_sub { text-shadow: none; }
+.login_form .go button, .go_search button, .pagination .wp-pagenavi a:hover, .pagination .wp-pagenavi .current, .form-submit #submit, .search_sub, .cherry_password_form .password_go {
+	background-color: #5ba10f !important;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	background-image: none;
+}
+.pagination .wp-pagenavi a:hover, .pagination .wp-pagenavi .current { border: #417c00 1px solid !important; }
+.login_form .go button:focus, .login_form .go button:hover, .go_search button:focus, .go_search button:hover, .form-submit #submit:focus, .form-submit #submit:hover, .search_sub:focus, .search_sub:hover, .cherry_password_form .password_go:hover, .cherry_password_form .password_go:focus {
+	background-color: #5ba10f !important;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	background-image: none;
+}
+.cat_box ul li.first_news h2 a { color: #4a8b04; }
+.cat_box ul li.first_news h2 a:hover { color: #b2251f; }
+.toolbar .search input[type="submit"] { background: url(../images/colors/green/search-button.png) no-repeat -8px -7px; }
+.scrolling_box .nav a.activeSlide, .pp-slider-nav a.activeSlide, .flex-control-nav li a.flex-active { background: url(../images/colors/green/slider_dots.png) no-repeat -0px -0px; }
+.readmore { background: #427e00; }
+.login_user p strong, nav ul.menu > li > ul > li > ul > li:hover > a, nav ul.menu > li > ul > li > a:hover, nav ul.menu > li > ul > li:hover > a, .news_box_title4 { color: #417c00 !important; }
+#calendar_wrap #wp-calendar #today, #calendar_wrap #wp-calendar #today { background: #67b215; }
+#calendar_wrap #wp-calendar #today, .calendar_wrap #wp-calendar #today a { color: #FFF; }
+.tagcloud a:hover {
+	background: #5ba10f;
+	border-color: #5ba10f;
+	color: #ffffff !important;
+}
